@@ -20,16 +20,19 @@ decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_16183803
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
 deprecation @ file:///home/conda/feedstock_root/build_artifacts/deprecation_1589881437857/work
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
+Flask==1.1.2
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
 importlib-metadata==4.0.0
 ipykernel @ file:///D:/bld/ipykernel_1617137234365/work/dist/ipykernel-5.5.3-py3-none-any.whl
 ipython @ file:///D:/bld/ipython_1616837008098/work
 ipython-genutils==0.2.0
 isort==5.8.0
+itsdangerous==1.1.0
 jedi @ file:///D:/bld/jedi_1610146981085/work
 Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1612119311452/work
 joblib==1.0.1
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1600692310011/work
+jsonify==0.5
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1614815863336/work
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1615693636836/work
 jupyter-core @ file:///D:/bld/jupyter_core_1612125436808/work
@@ -92,6 +95,8 @@ typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_ext
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1615828766818/work
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 webencodings==0.5.1
+Werkzeug==1.0.1
 win-inet-pton @ file:///D:/bld/win_inet_pton_1610147627696/work
 wincertstore==0.2
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1614945704755/work
+gunicorn
